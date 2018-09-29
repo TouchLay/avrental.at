@@ -11,4 +11,29 @@ html, body {
   height: 100vh;
   display: flex;
   justify-content: center;
+  flex-flow: column;
+  text-align: center;
+}
+
+.typeform-btn {
+  margin-top: 50px;
+  display:inline-block;
+  text-decoration:none;
+  background-color: #00D3DB;
+  color:white;
+  cursor:pointer;
+  font-size:30px;
+  line-height:60px;
+  text-align:center;
+  height:60px;
+  padding:10px 43px;
+  border-radius:50px;
+  max-width:100%;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  font-weight:bold;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+
 }
