@@ -6,16 +6,12 @@
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Dark" transform="translate(-78.000000, -103.000000)">
-            <g id="square" transform="translate(72.000000, 61.000000)">
+            <g id="square" transform="translate(72.000000, 103.000000)">
                 <text id="rental" font-family="Futura-Medium, Futura" font-size="87" font-weight="400" letter-spacing="-0.1482955" fill="#FFFFFF">
-                    <tspan x="0" y="237">rental</tspan>
+                    <tspan x="0" y="195">rental</tspan>
                 </text>
-                <text id="A" font-family="Futura-Bold, Futura" font-size="150" font-weight="bold" letter-spacing="-0.225" fill="#00D3DB">
-                    <tspan x="5" y="156">A</tspan>
-                </text>
-                <text id="V" font-family="Futura-Bold, Futura" font-size="150" font-weight="bold" letter-spacing="-0.225" fill="#00D3DB">
-                    <tspan x="104" y="156">V</tspan>
-                </text>
+                <path d="M78.35,72 L65.15,34.35 L51.95,72 L78.35,72 Z M95.3161504,37.9856391 C89.581949,43.3673527 86,51.0153718 86,59.5 C86,75.535063 98.7936691,88.5820046 114.730337,88.9901548 L124.25,114 L92.9,114 L86.15,94.35 L44.15,94.35 L37.4,114 L6.05,114 L49.1,0.9 L81.2,0.9 L95.3161516,37.9856386 Z M137.089066,79.6039566 C141.997238,74.3355387 145,67.2684357 145,59.5 C145,43.4543716 132.189466,30.4008038 116.238157,30.0090549 L104,0.9 L135.95,0.9 L163.25,69.75 L190.7,0.9 L222.65,0.9 L174.95,114 L151.55,114 L137.089064,79.6039556 Z" id="Combined-Shape" fill="#00D3DB"></path>
+                <circle id="Oval" fill="#FFFFFF" cx="116" cy="60" r="17"></circle>
             </g>
         </g>
     </g>
